@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Work in progress"
+title:  "Welcome"
 date:   2023-09-12 19:08:45 +0000
 categories: update
 ---
-TBD
+Welcome - I plan to post projects I've done for fun.
