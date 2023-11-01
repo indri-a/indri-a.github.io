@@ -10,4 +10,4 @@ Outside of work you'll either find me hiking, playing board games, trying to mak
 
 I love learning and trying new things so the previous list will change frequently.
 
-![Polaroid of Indri](/assets/img/polaroid1.jpg){: width="400"}{:style="display:block; margin-left:auto; margin-right:auto"}
+[![Polaroid of Indri](/assets/img/polaroid1.JPG){: width="400"}{:style="display:block; margin-left:auto; margin-right:auto"}](/assets/img/polaroid1.JPG)
