@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I'm Indri Adisoemarta. I'm currently a data scientist at Intel working on tools to augment decision-making, from chip design to marketing.
 
-Outside of work you'll either find me hiking, playing board games, trying to make a 3-pointer, sitting in the ocean trying to catch a wave, or climbing at the gym. 
+Outside of work you'll either find me hiking, playing board games, attempting a 3-pointer, sitting in the ocean trying to catch waves, or climbing at the gym.
 
 I love learning and trying new things so the previous list will change frequently.
 

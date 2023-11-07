@@ -20,7 +20,7 @@ In 2023, the scoring methodology was changed so that five judges would each assi
 
 **What makes a good scoring methodology?** Is it a larger spread of scores, indicated by a larger score variance? Should scores follow a Gaussian distribution, or another distribution? Should scores be consistent between rounds or dunks of similar quality? I will focus on identifying whether the new scoring method offers more chances for judges to differentiate between athletes.
 
-## First-Pass Analysis
+## First Pass Analysis
 
 As a first pass, I will manually count all possible score combinations of the first method, and all possible scores combinations of the second method. 
 
@@ -50,7 +50,7 @@ From just counting, we can see there are more opportunities for judges to differ
 | Mean | 27.5 | 25.5 |
 | Variance | 180.17 | 202.54 |
 
-## Second-Pass Analysis
+## Second Pass Analysis
 
 Of course, not all scores between 1 and 10 or 1 and 50 are equally likely. As mentioned before, we can clearly see that in the past, greater than 80% of scores were greater than or equal to 40. A better analysis would be to create a probability mass function of dunk scores from 2000 – 2022, and a PMF of the dunk scores from 2023, and compare the spread of each.  
 
@@ -82,7 +82,7 @@ This creates the following distribution:
 
 [![Simulated new method PMF vs historical](/assets/img/new_method.png){:style="display:block; margin-left:auto; margin-right:auto"}](/assets/img/new_method.png)
 
-I believe this simulated distribution is more realistic than the one in Figure 4. Visually, we can see that there is a larger distribution of scores around the peaks of 45 and 50, which theoretically gives judges more opportunities to differentiate between top dunks. Thus, I argue the new method of averaging 5 scores out of 50 is better than the original method of adding 5 scores out of 10. It is difficult to compare variance of the distribution to historical data as I applied Laplace smoothing. Ultimately, to determine whether the new scoring method is an improvement, we need to wait for more data, as my model made a lot of assumptions. 
+I believe this simulated distribution is more realistic than the one in the first pass analysis. Visually, we can see that there is a larger distribution of scores around the peaks of 45 and 50, which theoretically gives judges more opportunities to differentiate between top dunks. Thus, I argue the new method of averaging 5 scores out of 50 is better than the original method of adding 5 scores out of 10. It is difficult to compare variance of the distribution to historical data as I applied Laplace smoothing. Ultimately, to determine whether the new scoring method is an improvement, we need to wait for more data, as my model made a lot of assumptions.
 
 ## Other Considerations 
 
