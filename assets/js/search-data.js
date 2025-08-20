@@ -18,16 +18,21 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "My collection of projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "projects-slam-dunk-contest-scoring-analysis",
-          title: 'Slam Dunk Contest Scoring Analysis',
-          description: "This was a statistics class extra-credit project.",
+        },{id: "projects-ohm-sweet-ohm",
+          title: 'Ohm Sweet Ohm',
+          description: "Project done for the MIT Energy and Climate Hack",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/climate_hack/";
+            },},{id: "projects-slam-dunk-contest-scoring-analysis",
+          title: 'Slam Dunk Contest Scoring Analysis',
+          description: "A statistics class extra-credit project",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/slam_dunk_contest/";
             },},{
         id: 'social-email',
         title: 'email',
