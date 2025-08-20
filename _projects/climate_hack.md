@@ -26,7 +26,7 @@ Our first decision was to pick what computer vision model to use for our applica
 
 Unfortunately, none of the open-source models worked that well with the types of objects we wanted to identify (food):
 
-[![coke can yolov8](/assets/img/coke_yolov8.jpg){:style="width:100%; max-width:800px; height:auto; display:block; margin:0 auto"}](/assets/img/coke_yolov8.jpg)
+[![coke can yolov8](/assets/img/coke_yolov8.JPG){:style="width:100%; max-width:800px; height:auto; display:block; margin:0 auto"}](/assets/img/coke_yolov8.JPG)
 
 To correctly identify retail and food objects, we would have to fine-tune the open-source computer vision models with retail data images, and unfortunately we didn't have the time or compute to do so (we only had 24 hours for this hackathon.)
 
