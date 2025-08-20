@@ -198,7 +198,6 @@ exclude:
   - _projects/8_project.md
   - _projects/9_project.md 
   - _pages/blog.md
-  - _pages/publications.md
   - _pages/repositories.md
   - _pages/cv.md
   - _pages/teaching.md
@@ -277,8 +276,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Adisoemarta]
+  first_name: [Indri, I.]
 
   style: apa
   locale: en
