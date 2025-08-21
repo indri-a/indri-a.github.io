@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "projects-ohm-sweet-ohm",
           title: 'Ohm Sweet Ohm',
-          description: "Project done for the MIT Energy and Climate Hack",
+          description: "Computer vision app that calculates carbon emissions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/climate_hack/";
             },},{id: "projects-slam-dunk-contest-scoring-analysis",
