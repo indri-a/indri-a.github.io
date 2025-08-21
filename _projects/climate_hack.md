@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ohm Sweet Ohm
-description: Project done for the MIT Energy and Climate Hack
+description: Computer vision app that calculates carbon emissions
 img: assets/img/commonhealth.png
 importance: 1
 category: fun
@@ -10,7 +10,7 @@ category: fun
 
 ## Challenge
 
-In November 2024, my team and I participated in an Energy and Climate Hackathon run by MIT. There were 8 challenges presented by different companies and startups, and my team participated in the challenge run by [Planet FWD](https://www.planetfwd.com/). 
+In November 2024, I participated in an Energy and Climate Hackathon run by MIT. There were 8 challenges presented by different companies and startups, and my team participated in the challenge run by [Planet FWD](https://www.planetfwd.com/). 
 
 Planet FWD is a decarbonization platform that helps companies measure, report, and reduce their carbon footprints across their products. Their challenge was to **"Use computer vision to dynamically infer carbon footprints."** We would be using their brand-new API that took a product's name and mass as input, and output an estimate of that product's CO2 emissions.
 
