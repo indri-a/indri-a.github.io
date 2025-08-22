@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Slam Dunk Contest Scoring Analysis
-description: A statistics class extra-credit project
+description: Statistics class extra-credit project
 img: assets/img/slam_dunk.jpg
 importance: 2
 category: fun

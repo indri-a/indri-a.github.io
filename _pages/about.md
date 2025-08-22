@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a master's student at [UC Berkeley](https://www.berkeley.edu/) studying data science. Previously, I was a data scientist at [Intel](https://www.intel.com/) working on tools to augment decision-making, from chip design to marketing. My background is originally in chemical engineering.
+I'm a master's student at [UC Berkeley](https://www.berkeley.edu/) studying data science. Previously, I was a data scientist at [Intel](https://www.intel.com/) working on tools to augment decision-making, from chip design to marketing. My background is originally in [chemical engineering](https://che.utexas.edu/).
 
 My interests include applying machine learning techniques to engineering and scientific problems, such as in manufacturing or [climate-related](https://disasterlab.berkeley.edu/people/) applications.
 
