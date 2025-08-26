@@ -29,6 +29,6 @@ I'm a master's student at [UC Berkeley](https://www.berkeley.edu/) studying data
 
 My interests include applying machine learning techniques to engineering and scientific problems, such as in manufacturing or [climate-related](https://disasterlab.berkeley.edu/people/) applications.
 
-Outside of work you'll find me either sitting in the ocean trying to catch waves, playing board games, attempting 3-pointers, or climbing at the gym.
+Outside of work you'll find me either sitting in the ocean trying to catch waves, playing board games, or climbing at the gym. I also run a virtual [book club](https://luma.com/profdevbookclub)!
 
 I love learning and trying new things so the previous list will change frequently.
