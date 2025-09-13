@@ -30,7 +30,7 @@ ninja.data = [{
               window.location.href = "/projects/climate_hack/";
             },},{id: "projects-slam-dunk-contest-scoring-analysis",
           title: 'Slam Dunk Contest Scoring Analysis',
-          description: "Statistics class extra-credit project",
+          description: "Analyzing the new NBA Slam Dunk Contest scoring format",
           section: "Projects",handler: () => {
               window.location.href = "/projects/slam_dunk_contest/";
             },},{
