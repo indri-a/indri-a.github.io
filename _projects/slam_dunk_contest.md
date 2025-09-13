@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Slam Dunk Contest Scoring Analysis
-description: Statistics class extra-credit project
+description: Analyzing the new NBA Slam Dunk Contest scoring format
 img: assets/img/slam_dunk.jpg
 importance: 2
 category: fun
