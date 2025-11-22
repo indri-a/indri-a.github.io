@@ -3,7 +3,7 @@ layout: page
 title: Slam Dunk Contest Scoring Analysis
 description: Analyzing the new NBA Slam Dunk Contest scoring format
 img: assets/img/slam_dunk.jpg
-importance: 2
+importance: 3
 category: fun
 related_publications: false
 ---
