@@ -23,7 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "projects-ohm-sweet-ohm",
+        },{id: "projects-detecting-digital-ghosts",
+          title: 'Detecting Digital Ghosts',
+          description: "Using machine learning to unmask AI-generated restaurant reviews",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ai_restaurant_reviews/";
+            },},{id: "projects-ohm-sweet-ohm",
           title: 'Ohm Sweet Ohm',
           description: "Computer vision app that calculates carbon emissions",
           section: "Projects",handler: () => {
