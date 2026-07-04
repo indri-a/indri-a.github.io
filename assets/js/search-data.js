@@ -30,7 +30,7 @@ ninja.data = [{
               window.location.href = "/projects/ai_restaurant_reviews/";
             },},{id: "projects-air-travel-delay-prediction",
           title: 'Air Travel Delay Prediction',
-          description: "Using gradient boosted trees, XGBoost, and deep neural networks to predict air travel delays",
+          description: "Using XGBoost and deep neural networks to predict air travel delays",
           section: "Projects",handler: () => {
               window.location.href = "/projects/air_travel_delays/";
             },},{id: "projects-arcradius",
