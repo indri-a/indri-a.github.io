@@ -28,6 +28,16 @@ ninja.data = [{
           description: "Using machine learning to unmask AI-generated restaurant reviews",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ai_restaurant_reviews/";
+            },},{id: "projects-air-travel-delay-prediction",
+          title: 'Air Travel Delay Prediction',
+          description: "Using gradient boosted trees, XGBoost, and deep neural networks to predict air travel delays",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/air_travel_delays/";
+            },},{id: "projects-arcradius",
+          title: 'ArcRadius',
+          description: "ArcRadius helps LGBTQ+ young adults understand how legislation affects their rights",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/arcradius/";
             },},{id: "projects-ohm-sweet-ohm",
           title: 'Ohm Sweet Ohm',
           description: "Computer vision app that calculates carbon emissions",
