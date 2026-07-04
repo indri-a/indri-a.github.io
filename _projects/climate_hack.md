@@ -3,7 +3,7 @@ layout: page
 title: Ohm Sweet Ohm
 description: Computer vision app that calculates carbon emissions
 img: assets/img/commonhealth.png
-importance: 1
+importance: 2
 category: fun
 #giscus_comments: true
 ---
